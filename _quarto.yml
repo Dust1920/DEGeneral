@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "Differential Equations"
+  author: "David Peña Peralta"
+  date: "7/11/2024"
+  chapters:
+    - index.qmd
+    - chap1try.qmd
+    - chap1exc.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

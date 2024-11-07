@@ -1,0 +1,7 @@
+# Preface {.unnumbered}
+
+This book is a study work to Differential Equations General Exam. Principally based in @LPerko. 
+
+This book contains the sufficient theory to solve the Book Excersices of the Chapters 1, 2 and 4. 
+
+
